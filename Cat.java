@@ -31,11 +31,6 @@ public class Cat {
     public int getAppetite() {
         return appetite;
     }
-
-    public void setAppetite(int appetite) {
-        this.appetite = appetite;
-    }
-
     public boolean isFullness() {
         return fullness;
     }
